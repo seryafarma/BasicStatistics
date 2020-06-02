@@ -1,0 +1,9 @@
+A random variable X has distribution of B(12, p)
+a) Given that p = 0.25 find P(X < 5) and P(X >= 7)
+
+In a large restaurant an average of 3 out of 5 customers ask for water with
+their meal. A random sample of 10 customer ordered.
+a) Find the probability: exactly 6 ask for water with meal.
+b) Find the probability: less than 9 ask for water with meal.
+
+
