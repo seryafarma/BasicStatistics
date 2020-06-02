@@ -6,4 +6,11 @@ their meal. A random sample of 10 customer ordered.
 a) Find the probability: exactly 6 ask for water with meal.
 b) Find the probability: less than 9 ask for water with meal.
 
+During community day, the change of shiny pokemon is 1/22
+What is the chance to encounter a shiny after: 
+1x encounter
+10x encounter
+22x encounter
+44x encounter
+50x encounter
 
