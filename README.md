@@ -3,10 +3,37 @@ Basic knowledge of statistics in Google Sheets, in python3 and in R
 
 ## Contents
 ### Binomial Distribution
+Two examples of binomial distribution questions answered in R and in sheets (ods libre office).
+
+#### Language
+R, sheets.
 
 ### Histogram
+Basic histogram in R from exams data taken from:
+
+http://roycekimmons.com/tools/generated_data/exams
+
+Answering a couple of questions based on exam data:
+
+1) Are men better than women at math exam?
+
+2) How about reading exam?
+
+3) Show histogram of both men and women in one graph.
+
+4) How about writing exam? Are men better?
+
+#### Language
+R, jupyter notebook.
 
 ### Bar Plot
+
+Basic bar plot showing categories of people income in the Netherlands based on:
+
+https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83931NED/table?dl=D4D1
+
+#### Language
+R, jupyter notebook.
 
 ### Line Chart
 Line chart is a simple xy representative of data.
